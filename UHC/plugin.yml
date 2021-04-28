@@ -1,0 +1,19 @@
+name: UHC
+version: 1.0
+main: com.overseer.Main
+api-version: 1.16
+commands:
+  uhccreate:
+    description: "creates uhc world"
+  uhctp:
+    description: "tp to uhc world"
+  uhcgetout:
+    description: "tp to creative world"
+  uhcdelete:
+    description: "deletes uhc world"
+  uhcstart:
+    description: "starts the uhc game"
+  uhcstop:
+    description: "stops the uhc game"
+  uhcendcheck:
+    description: "checks the game"
